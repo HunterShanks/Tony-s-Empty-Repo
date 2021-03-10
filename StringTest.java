@@ -14,6 +14,9 @@ public class StringTest {
 	      string4 = string3.replace('E', 'X');
 	      string5 = string4.substring(3, 10);
 
+		
+	     System.out.println("HERE ARE THE CHANGES");
+		
 	      System.out.println(string2);
 	      System.out.println(string3);
 	      System.out.println(string4);
