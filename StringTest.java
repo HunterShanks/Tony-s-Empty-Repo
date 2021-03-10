@@ -16,6 +16,10 @@ public class StringTest {
 
 		
 	     System.out.println("HERE ARE THE CHANGES");
+
+
+              System.out.println("HERE ARE THE SECOND CHANGES");
+
 		
 	      System.out.println(string2);
 	      System.out.println(string3);
